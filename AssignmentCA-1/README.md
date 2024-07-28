@@ -1,3 +1,10 @@
+Commands used -> 
+
+1. g++ -pg -o my_program binarytodeci.cpp
+2. ./my_program
+3. gprof my_program gmon.out > analysis.txt
+4. cat analysis.txt
+   
 The output of the file -> 
 
 ![image](https://github.com/user-attachments/assets/fdb0ecf8-7af0-46b2-87be-01e24f71d307)
